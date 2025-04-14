@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/qwertSE">
-  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertSE&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloub&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
