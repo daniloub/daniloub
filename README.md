@@ -11,13 +11,14 @@
 - I value clean code, best practices, and teamwork.
 
 ##
-
 <div>
   <a href="https://github.com/qwertSE">
   <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloub&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
+  <h2>🛠️ Tools & Technologies I’ve Worked With</h2>
+  
   <h3> Front-end </h3>
   <p align="left">
     <a href="https://skillicons.dev">
