@@ -1,10 +1,15 @@
 ### Hi there, I'm Dan
 
-- 🔭 Fullstack Developer.
-- 🌱 Graduate in Analysis and Systems Development.
-- 🌱 Graduate degree in Software Engineering.
-- :brain: Learning: PHP and Laravel.
+- 🧑‍💻 Fullstack Developer.
+- 🎓 Graduate in Analysis and Systems Development.
+- 🎓 Postgraduate in Software Engineering.
+- :brain: Learning: .NET Core, ASP.NET, Clean Architecture and DDD.
 - 📫 Talk to me: danilo.ub89@gmail.com or WhatsApp: https://bit.ly/2Ysg31Q
+
+✨ Fun Facts:
+- I enjoy learning new technologies and sharing knowledge.
+- I value clean code, best practices, and teamwork.
+
 ##
 
 <div>
@@ -13,19 +18,30 @@
 </div>
   
   ##
-  
-  <div>
-  <img align="center" alt="dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="dan-PHP" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="dan-BS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">        
-  <img align="center" alt="dan-Linux" height="30"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-          
-  
-  
-  </div>
+  <h3> Front-end </h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,angular,vue,nextjs,wordpress,jquery" />
+    </a>
+  </p>
+  <h3> Back-end </h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel," />
+    </a>
+  </p>
+  <h3> Database </h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+    </a>
+  </p>
+  <h3> Tools </h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,figma,git,github,gitlab,jenkins,obsidian,ps,postman" />
+    </a>
+  </p>
   
   ##
   <div>
