@@ -1,6 +1,6 @@
 ### Hi there, I'm Dan
 
-- 🧑‍💻 Fullstack Developer.
+- 🧑‍💻 Software Engineer.
 - 🎓 Graduate in Analysis and Systems Development.
 - 🎓 Postgraduate in Software Engineering.
 - :brain: Learning: .NET Core, ASP.NET, Clean Architecture and DDD.
